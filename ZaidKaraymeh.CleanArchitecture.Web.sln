@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaidKaraymeh.CleanArchitect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaidKaraymeh.CleanArchitecture.Infrastructure", "ZaidKaraymeh.CleanArchitecture.Infrastructure\ZaidKaraymeh.CleanArchitecture.Infrastructure.csproj", "{D7249D25-49CC-4B39-81B6-E6C68CA218D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaidKaraymeh.CleanArchitecture.UnitTests", "ZaidKaraymeh.CleanArchitecture.UnitTests\ZaidKaraymeh.CleanArchitecture.UnitTests.csproj", "{32BF98B2-963F-4FFF-BE88-A693F131BB02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D7249D25-49CC-4B39-81B6-E6C68CA218D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7249D25-49CC-4B39-81B6-E6C68CA218D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7249D25-49CC-4B39-81B6-E6C68CA218D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BF98B2-963F-4FFF-BE88-A693F131BB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BF98B2-963F-4FFF-BE88-A693F131BB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BF98B2-963F-4FFF-BE88-A693F131BB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BF98B2-963F-4FFF-BE88-A693F131BB02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
