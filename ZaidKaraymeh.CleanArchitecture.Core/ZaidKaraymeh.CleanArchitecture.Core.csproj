@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ZaidKaraymeh.CleanArchitecture.Infrastructure\ZaidKaraymeh.CleanArchitecture.Infrastructure.csproj" />
+    <ProjectReference Include="..\ZaidKaraymeh.CleanArchitecture.SharedKernal\ZaidKaraymeh.CleanArchitecture.SharedKernal.csproj" />
+  </ItemGroup>
+
 </Project>
